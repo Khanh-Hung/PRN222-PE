@@ -1,0 +1,15 @@
+G:\New folder\PE_PRN222_SP25_TrialTest_StudentName\PharmaceuticalManagement.Services\bin\Debug\net8.0\PharmaceuticalManagement.Services.deps.json
+G:\New folder\PE_PRN222_SP25_TrialTest_StudentName\PharmaceuticalManagement.Services\bin\Debug\net8.0\PharmaceuticalManagement.Services.dll
+G:\New folder\PE_PRN222_SP25_TrialTest_StudentName\PharmaceuticalManagement.Services\bin\Debug\net8.0\PharmaceuticalManagement.Services.pdb
+G:\New folder\PE_PRN222_SP25_TrialTest_StudentName\PharmaceuticalManagement.Services\obj\Debug\net8.0\PharmaceuticalManagement.Services.GeneratedMSBuildEditorConfig.editorconfig
+G:\New folder\PE_PRN222_SP25_TrialTest_StudentName\PharmaceuticalManagement.Services\obj\Debug\net8.0\PharmaceuticalManagement.Services.AssemblyInfoInputs.cache
+G:\New folder\PE_PRN222_SP25_TrialTest_StudentName\PharmaceuticalManagement.Services\obj\Debug\net8.0\PharmaceuticalManagement.Services.AssemblyInfo.cs
+G:\New folder\PE_PRN222_SP25_TrialTest_StudentName\PharmaceuticalManagement.Services\obj\Debug\net8.0\PharmaceuticalManagement.Services.csproj.CoreCompileInputs.cache
+G:\New folder\PE_PRN222_SP25_TrialTest_StudentName\PharmaceuticalManagement.Services\obj\Debug\net8.0\PharmaceuticalManagement.Services.dll
+G:\New folder\PE_PRN222_SP25_TrialTest_StudentName\PharmaceuticalManagement.Services\obj\Debug\net8.0\refint\PharmaceuticalManagement.Services.dll
+G:\New folder\PE_PRN222_SP25_TrialTest_StudentName\PharmaceuticalManagement.Services\obj\Debug\net8.0\PharmaceuticalManagement.Services.pdb
+G:\New folder\PE_PRN222_SP25_TrialTest_StudentName\PharmaceuticalManagement.Services\obj\Debug\net8.0\ref\PharmaceuticalManagement.Services.dll
+G:\New folder\PE_PRN222_SP25_TrialTest_StudentName\PharmaceuticalManagement.Services\obj\Debug\net8.0\PharmaceuticalManagement.Services.csproj.AssemblyReference.cache
+G:\New folder\PE_PRN222_SP25_TrialTest_StudentName\PharmaceuticalManagement.Services\bin\Debug\net8.0\PharmaceuticalManagement.Repositories.dll
+G:\New folder\PE_PRN222_SP25_TrialTest_StudentName\PharmaceuticalManagement.Services\bin\Debug\net8.0\PharmaceuticalManagement.Repositories.pdb
+G:\New folder\PE_PRN222_SP25_TrialTest_StudentName\PharmaceuticalManagement.Services\obj\Debug\net8.0\Pharmace.25BBD041.Up2Date

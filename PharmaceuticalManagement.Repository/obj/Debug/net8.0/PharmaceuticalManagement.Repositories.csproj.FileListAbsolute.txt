@@ -1,0 +1,14 @@
+G:\New folder\PE_PRN222_SP25_TrialTest_StudentName\PharmaceuticalManagement.Repository\bin\Debug\net8.0\PharmaceuticalManagement.Repositories.deps.json
+G:\New folder\PE_PRN222_SP25_TrialTest_StudentName\PharmaceuticalManagement.Repository\bin\Debug\net8.0\PharmaceuticalManagement.Repositories.dll
+G:\New folder\PE_PRN222_SP25_TrialTest_StudentName\PharmaceuticalManagement.Repository\bin\Debug\net8.0\PharmaceuticalManagement.Repositories.pdb
+G:\New folder\PE_PRN222_SP25_TrialTest_StudentName\PharmaceuticalManagement.Repository\obj\Debug\net8.0\PharmaceuticalManagement.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+G:\New folder\PE_PRN222_SP25_TrialTest_StudentName\PharmaceuticalManagement.Repository\obj\Debug\net8.0\PharmaceuticalManagement.Repositories.AssemblyInfoInputs.cache
+G:\New folder\PE_PRN222_SP25_TrialTest_StudentName\PharmaceuticalManagement.Repository\obj\Debug\net8.0\PharmaceuticalManagement.Repositories.AssemblyInfo.cs
+G:\New folder\PE_PRN222_SP25_TrialTest_StudentName\PharmaceuticalManagement.Repository\obj\Debug\net8.0\PharmaceuticalManagement.Repositories.csproj.CoreCompileInputs.cache
+G:\New folder\PE_PRN222_SP25_TrialTest_StudentName\PharmaceuticalManagement.Repository\obj\Debug\net8.0\PharmaceuticalManagement.Repositories.dll
+G:\New folder\PE_PRN222_SP25_TrialTest_StudentName\PharmaceuticalManagement.Repository\obj\Debug\net8.0\refint\PharmaceuticalManagement.Repositories.dll
+G:\New folder\PE_PRN222_SP25_TrialTest_StudentName\PharmaceuticalManagement.Repository\obj\Debug\net8.0\PharmaceuticalManagement.Repositories.pdb
+G:\New folder\PE_PRN222_SP25_TrialTest_StudentName\PharmaceuticalManagement.Repository\obj\Debug\net8.0\ref\PharmaceuticalManagement.Repositories.dll
+G:\New folder\PE_PRN222_SP25_TrialTest_StudentName\PharmaceuticalManagement.Repository\bin\Debug\net8.0\PharmaceuticalManagement.Repositories.runtimeconfig.json
+G:\New folder\PE_PRN222_SP25_TrialTest_StudentName\PharmaceuticalManagement.Repository\obj\Debug\net8.0\PharmaceuticalManagement.Repositories.csproj.AssemblyReference.cache
+G:\New folder\PE_PRN222_SP25_TrialTest_StudentName\PharmaceuticalManagement.Repository\obj\Debug\net8.0\PharmaceuticalManagement.Repositories.genruntimeconfig.cache

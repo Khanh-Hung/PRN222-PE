@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PharmaceuticalManagement_StudentName.props" />
+</Project>
